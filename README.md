@@ -101,4 +101,3 @@ Our platform, CarConnect, addresses the financial and social challenges faced by
 Link to the [gif](https://drive.google.com/file/d/1z6ON4MYPO6cLzbcew78coQjVATJ2Lc8p/view?usp=share_link) that displays figma prototype.
 
 <br>
->>>>>>> 749e0eb (initial commit)
